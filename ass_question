@@ -1,0 +1,7 @@
+Problem Statement:
+You work for XYZ Corporation. Your corporation wants to launch a new
+web-based application and they do not want their servers to be running all the
+time. It should also be managed by AWS. Implement suitable solutions.
+Tasks To Be Performed:
+1. Create an Elastic Beanstalk environment with the runtime as PHP.
+2. Upload a simple PHP file to the environment once created.
