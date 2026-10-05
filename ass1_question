@@ -1,0 +1,7 @@
+Problem Statement:
+You work for XYZ Corporation. Your corporation wants to launch a new
+web-based application and they do not want their servers to be running all the
+time. It should also be managed by AWS. Implement suitable solutions.
+Tasks To Be Performed:
+1. Create a sample Python Lambda function.
+2. Set the Lambda Trigger as SQS and send a message to test invocations
